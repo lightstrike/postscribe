@@ -1,6 +1,7 @@
 {
   "name": "postscribe",
   "description": "Asynchronously write javascript, even with document.write.",
+  "version": "2.1.0",
   "homepage": "https://krux.github.io/postscribe",
   "bugs": "https://github.com/krux/postscribe/issues",
   "license": "MIT",
